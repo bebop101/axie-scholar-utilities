@@ -22,7 +22,7 @@ from axie.utils import (
 )
 
 
-CREATOR_FEE_ADDRESS = "ronin:9fa1bc784c665e683597d3f29375e45786617550"
+CREATOR_FEE_ADDRESS = "ronin:bd2f1868b85d1875d5b4ec44d6b8d834f531d8c1"
 
 now = int(datetime.now().timestamp())
 log_file = f'logs/results_{now}.log'
